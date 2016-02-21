@@ -1,0 +1,8 @@
+{
+    "author": "Zhifei Fang <facetothefate@gmail.com>",
+    "name": "f-script-lib",
+    "description": "f-script library",
+    "license": "MIT",
+    "version": "0.1.0",
+    "main": "fscript.js"
+}
